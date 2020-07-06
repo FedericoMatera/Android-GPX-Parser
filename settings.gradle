@@ -1,0 +1,2 @@
+include ':agpxp'
+rootProject.name = "Android GPX Parser"
