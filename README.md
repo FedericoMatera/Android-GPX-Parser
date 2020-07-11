@@ -2,7 +2,9 @@
 A GPX Parser for Android
 
 # Install from Maven
-TBD
+```
+implementation 'net.federicomatera.agpxp:agpxp:1.0.0'
+```
 
 # Instance
 ```
